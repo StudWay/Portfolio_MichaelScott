@@ -24,6 +24,13 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 * Força de  Vontade 💪
 * Visua Studio Code instalado 🖥️
 
+## ☕ Resultado do projeto
+
+Aqui temos uma prévia de como vai ficar o final do projeto que estaremos construindo juntos na nossa playlist: 
+
+![Previa](.Readme/previa.png)
+
+
 ## 🚀 Clonando a base do portfolio Michael Scott
 
 Para Clonar a base do projeto você pode ver o video abaixo ou seguir o seguinte processo:
@@ -33,21 +40,13 @@ Video Youtube:
 <Link>
 ```
 
-Dentro do repositorio:
-```
-<comando_de_instalação>
-```
-![Alt text](image.png)
-
-## ☕ Usando <nome_do_projeto>
-
-Para usar <nome_do_projeto>, siga estas etapas:
+Copie o comando abaixo e cole no seu terminal para fazer o clone:
 
 ```
-<exemplo_de_uso>
+git clone https://github.com/StudWay/Portfolio_MichaelScott.git
 ```
 
-Adicione comandos de execução e exemplos que você acha que os usuários acharão úteis. Fornece uma referência de opções para pontos de bônus!
+OBS: importante se atentar em qual pasta está clonando o projeto para não se perder.
 
 ## 🤝 Colaboradores
 
