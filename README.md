@@ -1,14 +1,20 @@
 # Portfolio Michael Scott
 
-![GitHub repo size](https://img.shields.io/github/repo-size/iuricode/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/iuricode/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/iuricode/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
+
+![GitHub repo size](https://img.shields.io/github/repo-size/StudWay/Portfolio_MichaelScott?style=flat&logo=gitlab&label=Repo%20Size)
+![GitHub language count](https://img.shields.io/github/languages/count/Studway/Portfolio_MichaelScott?style=flat&logo=gitlab&label=Linguagens)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/studway/Portfolio_MichaelScott?style=flat&logo=gitlab&label=PR%20Closed)
 
 <img src="Imagens/capa.png" alt="Exemplo imagem">
 
 > Projeto para você começar a impressionar nas vagas de emprego, aprenda montar um portifólio para se apresentar adequadamente aos recrutadores.
+
+## 💼 Principais Ferramentas
+
+![HTML5-Linguagem-de-Marcação](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
+)
+![CSS3-Linguagem-de-estilização](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
+)
 
 ## 💻 Pré-requisitos
 
