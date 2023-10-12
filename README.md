@@ -5,7 +5,7 @@
 ![GitHub language count](https://img.shields.io/github/languages/count/Studway/Portfolio_MichaelScott?style=flat&logo=gitlab&label=Linguagens)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/studway/Portfolio_MichaelScott?style=flat&logo=gitlab&label=PR%20Closed)
 
-<img src="Imagens/capa.png" alt="Exemplo imagem">
+<img src=".Readme/capa.png" alt="capa">
 
 > Projeto para você começar a impressionar nas vagas de emprego, aprenda montar um portifólio para se apresentar adequadamente aos recrutadores.
 
