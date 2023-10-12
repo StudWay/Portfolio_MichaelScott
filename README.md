@@ -50,7 +50,7 @@ OBS: importante se atentar em qual pasta está clonando o projeto para não se p
 
 ## 🤝 Colaboradores
 
-Para mais conteudos incriveis que vão ti fazer evoluir siga o canal da Wtudway e seus fundadores:
+Para mais conteudos incriveis que vão ti fazer evoluir siga o canal da Studway e seus fundadores:
 
 <table>
   <tr>
