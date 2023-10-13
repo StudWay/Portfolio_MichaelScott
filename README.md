@@ -66,7 +66,7 @@ Para mais conteudos incriveis que vão ti fazer evoluir siga o canal da Studway 
       <a href="https://www.youtube.com/@Ale-Neves">
         <img src="https://yt3.googleusercontent.com/y3TJ6ZS7_2zwrEtebi0MiO-EAr4DYtti8W0prNZ0D7-ltTxKoXb2J-3thEGaJU27V7RIvVnuJg=s176-c-k-c0x00ffffff-no-rj" width="100px;" alt="Foto Alexandre Neves"/><br>
         <sub>
-          <b>Alexandre Neves(Z)</b>
+          <b>Alexandre Neves</b>
         </sub>
       </a>
     </td>
