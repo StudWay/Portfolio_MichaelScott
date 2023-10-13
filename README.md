@@ -26,7 +26,7 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## ☕ Resultado do projeto
 
-Aqui temos uma prévia de como vai ficar o final do projeto que estaremos construindo juntos na nossa playlist: 
+Aqui temos uma prévia de como vai ficar o final do projeto que estaremos construindo juntos na nossa [Playlist](https://youtube.com/playlist?list=PLPi2jprGhwsLVSknDc84yL3bDxgj5kkQ2&si=Vl_vOCBCbVejPbwL):
 
 ![Previa](.Readme/previa.png)
 
