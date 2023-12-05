@@ -21,7 +21,7 @@
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 * Disciplina ⌛
-* Força de  Vontade 💪
+* Força de Vontade 💪
 * Visua Studio Code instalado 🖥️
 
 ## ☕ Resultado do projeto
