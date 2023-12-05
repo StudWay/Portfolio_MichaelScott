@@ -1,6 +1,5 @@
 # Portfolio Michael Scott
 
-
 ![GitHub repo size](https://img.shields.io/github/repo-size/StudWay/Portfolio_MichaelScott?style=flat&logo=gitlab&label=Repo%20Size)
 ![GitHub language count](https://img.shields.io/github/languages/count/Studway/Portfolio_MichaelScott?style=flat&logo=gitlab&label=Linguagens)
 ![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed-raw/studway/Portfolio_MichaelScott?style=flat&logo=gitlab&label=PR%20Closed)
@@ -11,18 +10,16 @@
 
 ## 💼 Principais Ferramentas
 
-![HTML5-Linguagem-de-Marcação](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-)
-![CSS3-Linguagem-de-estilização](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-)
+![HTML5-Linguagem-de-Marcação](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3-Linguagem-de-estilização](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ## 💻 Pré-requisitos
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-* Disciplina ⌛
-* Força de Vontade 💪
-* Visua Studio Code instalado 🖥️
+- Disciplina ⌛.
+- Força de Vontade 💪.
+- Visua Studio Code instalado 🖥️.
 
 ## ☕ Resultado do projeto
 
@@ -30,12 +27,12 @@ Aqui temos uma prévia de como vai ficar o final do projeto que estaremos constr
 
 ![Previa](.Readme/previa.png)
 
-
 ## 🚀 Clonando a base do portfolio Michael Scott
 
 Para Clonar a base do projeto você pode ver o video abaixo ou seguir o seguinte processo:
 
 Video Youtube:
+
 ```
 <Link>
 ```
