@@ -1,0 +1,27 @@
+@import url('styles/reset.css');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Monda:wght@700&family=Montserrat:wght@400;600&display=swap');
+
+:root {
+    --cor-fonte-primaria: #F6F6F6;
+    --cor-fonte-secundaria: #A524E9;
+    --cor-fonte-terciaria: #767579;
+    --cor-fonte-quartenaria: #B2B1B9;
+
+    --cor-fundo-primaria: #000000;
+    --cor-fundo-secundaria: #F6F6F6;
+    --cor-fundo-terciaria: #7C7C7C;
+
+    --fonte-primaria: 'Montserrat', sans-serif;
+    --fonte-secundaria: 'Krona One', sans-serif;
+    --fonte-terciara: 'Monda', sans-serif;
+
+    font-size: 16px;
+}
+
+body{
+    background-color: var(--cor-fundo-primaria);
+    color: var(--cor-fonte-primaria);
+    font-family: var(--fonte-primaria);
+    font-size: 1.5rem;
+    box-sizing: border-box;
+}
